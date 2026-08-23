@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\bin\Debug\net10.0\agencia_de_viajes.exe
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\bin\Debug\net10.0\agencia_de_viajes.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\bin\Debug\net10.0\agencia_de_viajes.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\bin\Debug\net10.0\agencia_de_viajes.dll
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\bin\Debug\net10.0\agencia_de_viajes.pdb
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\obj\Debug\net10.0\agencia_de_viajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\obj\Debug\net10.0\agencia_de_viajes.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\obj\Debug\net10.0\agencia_de_viajes.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\obj\Debug\net10.0\agencia_de_viajes.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\obj\Debug\net10.0\agencia_de_viajes.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\obj\Debug\net10.0\agencia_de_viajes.dll
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\obj\Debug\net10.0\refint\agencia_de_viajes.dll
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\obj\Debug\net10.0\agencia_de_viajes.pdb
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\obj\Debug\net10.0\agencia_de_viajes.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\agencia_de_viajes\agencia_de_viajes\obj\Debug\net10.0\ref\agencia_de_viajes.dll
